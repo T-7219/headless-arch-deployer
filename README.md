@@ -23,17 +23,17 @@ A robust, interactive shell script for deploying minimalist Arch Linux installat
 1. Boot into an Arch Linux live environment with UEFI mode enabled
 2. Download the script:
 ```bash
-curl -LO https://github.com/T-7219/headless-arch-deployer/raw/main/archinstall.sh
+curl -LO https://github.com/T-7219/headless-arch-deployer/raw/main/archinstall.en.sh
 ```
 
 3. Make it executable:
 ```bash
-chmod +x archinstall.sh
+chmod +x archinstall.en.sh
 ```
 
 4. Run the script:
 ```bash
-./archinstall.sh
+./archinstall.en.sh
 ```
 
 5. Follow the interactive prompts to configure your installation
